@@ -11,3 +11,14 @@ git push -u origin main
 git remote add origin https://github.com/ForNettiii/test.git
 git branch -M main
 git push -u origin main
+További terminál parancsok
+git pull origin main
+git remote -v #távoli repo lekérdezése
+git status #change, stage, commit állapotának lekérdezése
+git config --global --list #globális beállitasok listazasa
+cd #changedirectory
+cd .. #egy mappaval feljebb lep
+mkdir #make directory
+rmdir #remove directory
+ls #list directory
+
